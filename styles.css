@@ -1,0 +1,20 @@
+#SM3{
+    color: white;   
+    font-family: Sanss-Serif;
+}
+body{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    color:white;
+    background-image: url("https://data.whicdn.com/images/277722125/original.gif");
+}
+h1 {
+    font-family: 'Cabin Sketch', cursive;
+}
+img {
+    border: 2px groove grey;
+}
+button {
+    border-radius: 5px;
+    background-color: #0099ff;
+}
